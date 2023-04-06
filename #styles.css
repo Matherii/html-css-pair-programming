@@ -18,7 +18,7 @@ html {
     margin-bottom: 0;
   }
 
-  @media (max-width: 460px) {
+  @media (max-width: 768px) {
     h1 {
       font-size: 3.5rem;
       line-height: 1.2;
@@ -44,7 +44,7 @@ html {
     background: #eee;
   }
 
-  @media (max-width: 460px) {
+  @media (max-width: 480px) {
     #main {
       margin: 0;
     }
@@ -67,7 +67,7 @@ html {
     margin: 15px 0 5px 0;
   }
 
-  @media (max-width: 460px) {
+  @media (max-width: 480px) {
     #img-caption {
       font-size: 1.4rem;
     }
